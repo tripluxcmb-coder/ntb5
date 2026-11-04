@@ -275,15 +275,7 @@ export default function App() {
 
             {/* Action Buttons on Mobile/Tablet/Desktop */}
             <div className="flex items-center gap-1.5 sm:gap-2 shrink-0 lg:hidden">
-              <a
-                href="/ntb-relationship-360-vercel.zip"
-                download="ntb-relationship-360-vercel.zip"
-                className="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-xl border border-slate-200 text-[11px] font-semibold text-slate-700 hover:border-[#0076BE] hover:text-[#0076BE]"
-                title="Download Vercel Ready ZIP"
-              >
-                <Download className="w-3.5 h-3.5 text-[#0076BE]" />
-                <span>ZIP</span>
-              </a>
+
               <button
                 type="button"
                 onClick={() => setShowExecutiveDesk(true)}
@@ -392,14 +384,6 @@ export default function App() {
             </div>
 
             <div className="hidden lg:flex items-center gap-2">
-              <a
-                href="/ntb-relationship-360-vercel.zip"
-                download="ntb-relationship-360-vercel.zip"
-                className="inline-flex items-center gap-1.5 px-3 py-2 rounded-xl border border-[#0076BE]/30 bg-[#0076BE]/5 hover:bg-[#0076BE]/10 text-xs font-bold text-[#0076BE] transition-colors"
-              >
-                <Download className="w-3.5 h-3.5" />
-                <span>Download ZIP</span>
-              </a>
 
               <button
                 type="button"
