@@ -627,7 +627,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
     "directors": [
       {
         "directorCif": "11653453",
-        "name": "Kulappu Arachchige Don Dhammika Perera",
+        "name": "Hay1",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.275047,
@@ -647,7 +647,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10228955",
-        "name": "Yogadinusha Yogagopalakrishnan",
+        "name": "Hay2",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.0,
@@ -657,7 +657,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10916353",
-        "name": "Mohamed Jamaldeen",
+        "name": "Hay3",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.010078,
@@ -667,7 +667,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10477785",
-        "name": "Mohan Pandithage",
+        "name": "Hay4",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 3.994416,
@@ -677,7 +677,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "11278026",
-        "name": "Ragunathan Srivalli Sharmila",
+        "name": "Hay5",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.044654,
@@ -687,7 +687,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10508356",
-        "name": "Sujeewa Rajapakse",
+        "name": "Hay6",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.016571,
@@ -697,7 +697,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "11728410",
-        "name": "Sarath Ananda Kumara Abayawardana",
+        "name": "Hay7",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.647654,
@@ -707,7 +707,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10385367",
-        "name": "Sarath Clement Ganegoda",
+        "name": "Hay8",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.780567,
@@ -727,7 +727,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "11727955",
-        "name": "Swbrjm Arjun Michael Sabaragamuwe Senaratna",
+        "name": "Hay9",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.0,
@@ -792,8 +792,8 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
     "isPrimaryCustomer": true,
     "reportedLimitMn": 5700.0,
     "company": {
-      "legalName": "L. G. Farm (Private) Limited",
-      "shortName": "L. G. Farm",
+      "legalName": "Farm (Private) Limited",
+      "shortName": "Farm",
       "entityType": "Corporate",
       "sector": "Agribusiness & Livestock Production",
       "subSector": "Integrated Poultry & Feed Operations",
@@ -807,7 +807,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       "links": [
         {
           "label": "Official Website",
-          "url": "https://lgfarm.lk/about.php",
+          "url": "-",
           "type": "website"
         }
       ],
@@ -1149,8 +1149,8 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
     "isPrimaryCustomer": true,
     "reportedLimitMn": null,
     "company": {
-      "legalName": "Anil Kumar Lalchand Hirdaramani",
-      "shortName": "Anil K. L. Hirdaramani",
+      "legalName": "A Kumara ",
+      "shortName": "Kumara",
       "entityType": "Individual",
       "sector": "Private Wealth & Individual Banking",
       "subSector": "Private Wealth Relationship",
@@ -1352,8 +1352,8 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
     "parentCompanyName": "Dialog Axiata PLC",
     "reportedLimitMn": 714.627,
     "company": {
-      "legalName": "Mahesh Chandra Amalean",
-      "shortName": "Mahesh C. Amalean",
+      "legalName": "M Amar",
+      "shortName": "M Amar",
       "entityType": "Individual",
       "sector": "Private Wealth & Individual Banking",
       "subSector": "Private Wealth Relationship",
@@ -1791,7 +1791,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "11701468",
-        "name": "Wickrema Senaka Weerasooria",
+        "name": "Grains1",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.032209,
@@ -1801,7 +1801,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10253923",
-        "name": "Rajanayagam N Asirwatham",
+        "name": "Grains2",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 3.624388,
@@ -2144,7 +2144,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10219465",
-        "name": "Mahesh Chandra Amalean",
+        "name": "Grains2",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 642.129868,
@@ -2367,7 +2367,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10200869",
-        "name": "Sivakumar Selliah",
+        "name": "Asiri1",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.0,
@@ -2377,7 +2377,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10223537",
-        "name": "Sudarshan Ahangama",
+        "name": "Asiri2",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 24.350368,
@@ -2387,7 +2387,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10202770",
-        "name": "Samantha Aruna Bandara Rajapaksa",
+        "name": "Asiri3",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 1.296968,
@@ -2640,7 +2640,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
     "directors": [
       {
         "directorCif": "10396154",
-        "name": "P G M Asanga Perera",
+        "name": "JKH1",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.0,
@@ -2660,7 +2660,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10507404",
-        "name": "Nihal Fonseka",
+        "name": "JKH2",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.454678,
@@ -2670,7 +2670,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "11155133",
-        "name": "Mohamed Ashroff Omar",
+        "name": "JKH3",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.907415,
@@ -2680,7 +2680,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10396156",
-        "name": "Marie Premila Perera Seneviratne",
+        "name": "JKH4",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.605014,
@@ -2690,7 +2690,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10428075",
-        "name": "Damian Amal Cabraal",
+        "name": "JKH5",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.070467,
@@ -2700,7 +2700,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10218162",
-        "name": "Rusi Sohli Captain",
+        "name": "JKH6",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.182428,
@@ -2710,7 +2710,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10294918",
-        "name": "S S H Wijayasuriya",
+        "name": "JKH7",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.0,
