@@ -274,7 +274,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10204843",
-        "name": "Arjuna Kapila Gunaratne",
+        "name": "Central9",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.255989,
