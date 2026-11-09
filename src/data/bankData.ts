@@ -224,7 +224,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
     "directors": [
       {
         "directorCif": "10248549",
-        "name": "Chaminda Sampath Hettiarachchi",
+        "name": "Central1",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 1.455852,
@@ -234,7 +234,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10204041",
-        "name": "Harindra Wijenaike Eranjith",
+        "name": "Central2",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.0,
@@ -254,7 +254,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10205481",
-        "name": "Chandika Kushan Hettiarachchi",
+        "name": "Central13",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.032878,
@@ -264,7 +264,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10702569",
-        "name": "Arjun Fernando",
+        "name": "Central4",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.212261,
@@ -284,7 +284,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10562812",
-        "name": "Manjula Hiranya DE Silva",
+        "name": "Central5",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.700885,
@@ -294,7 +294,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10524591",
-        "name": "Asite Drupath B Talwatte",
+        "name": "Central6",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 4.645554,
@@ -304,7 +304,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10290576",
-        "name": "Kuda Bandara Herath",
+        "name": "Central7",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 1.232944,
@@ -314,7 +314,7 @@ export const INITIAL_CUSTOMERS: CustomerRecord[] = [
       },
       {
         "directorCif": "10230908",
-        "name": "Dhammika Prasanna DE Silva",
+        "name": "Central8",
         "role": "Linked Director Relationship",
         "hasBalanceExtract": true,
         "latestAssetsMn": 0.001077,
