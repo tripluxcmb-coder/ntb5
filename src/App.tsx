@@ -372,15 +372,7 @@ export default function App() {
                 <span>Add Client</span>
               </button>
 
-              <a
-                href={`/brief/${dashboard.cif}`}
-                target="_blank"
-                rel="noreferrer"
-                className="inline-flex items-center gap-1.5 px-3 py-1.5 sm:py-2 rounded-xl border border-slate-200 hover:border-[#0076BE] text-xs font-semibold text-slate-700 hover:text-[#0076BE] transition-colors"
-              >
-                <FileText className="w-3.5 h-3.5 text-[#0076BE]" />
-                <span>Visit Brief</span>
-              </a>
+              
             </div>
 
             <div className="hidden lg:flex items-center gap-2">
